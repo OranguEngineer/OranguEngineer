@@ -67,7 +67,7 @@
 <h3 align="center">📝 Latest posts on <a href="https://dev.to/OranguEngineer">dev.to</a></h3>
 
 <!-- DEV-TO-POSTS:START -->
-<p><em>No posts yet — first one dropping soon.</em></p>
+- [CLAUDE.md is not a prompt: starting a Django side project with an agentic AI workflow](https://dev.to/oranguengineer/claudemd-is-not-a-prompt-starting-a-django-side-project-with-an-agentic-ai-workflow-126d)
 <!-- DEV-TO-POSTS:END -->
 
 <hr/>
