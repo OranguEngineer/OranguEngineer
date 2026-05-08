@@ -12,12 +12,19 @@
 
 <div align="center">
   <a href="https://github.com/OranguEngineer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=450&height=30&lines=CS+Engineering+Student;Multipotentialite;Learning+%26+Exploring;Professional+Bug+Developer;F1+%26+Anime+Enjoyer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=450&height=30&lines=CS+Engineering+Student;Multipotentialite;Building+in+Public;Professional+Bug+Developer;Still+Compiling..." alt="Typing SVG"/>
   </a>
   <br/><br/>
   <p><b>🧠 Multipotentialite</b> — too curious to stay in one lane</p>
-  <p><b>🏎️ Motorsport</b></p>
-  <p><b>🌸 Anime and Manga enjoyer</b></p>
+  <p><b>🔨 Building in Public</b> — documenting what I build, what breaks, and what I learn</p>
+</div>
+
+<hr/>
+
+<h3 align="center">🚧 Currently Building</h3>
+
+<div align="center">
+  <p>Building in public — follow along on <a href="https://dev.to/OranguEngineer">dev.to</a> for updates, decisions, and the occasional breakdown.</p>
 </div>
 
 <hr/>
@@ -85,5 +92,5 @@
 <hr/>
 
 <div align="center">
-  <sub>🦧 OranguEngineer — still compiling</sub>
+  <sub>🏎️ Motorsport enjoyer · 🌸 Anime and Manga fan · 🦧 OranguEngineer — still compiling</sub>
 </div>
