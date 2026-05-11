@@ -67,7 +67,7 @@
 <h3 align="center">📝 Latest posts on <a href="https://dev.to/OranguEngineer">dev.to</a></h3>
 
 <!-- DEV-TO-POSTS:START -->
-- [CLAUDE.md is not a prompt: starting a Django side project with an agentic AI workflow](https://dev.to/oranguengineer/claudemd-is-not-a-prompt-starting-a-django-side-project-with-an-agentic-ai-workflow-126d)
+- [I&#39;m building a calendar app — here&#39;s why, and what milestone 0.1 looks like](https://dev.to/oranguengineer/im-building-a-calendar-app-heres-why-and-what-milestone-01-looks-like-3h4c)
 <!-- DEV-TO-POSTS:END -->
 
 <hr/>
