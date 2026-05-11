@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./rainforest.webp" width="100%" style="border-radius: 10px;"/>
+  <img src="./twitter_header.png" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <hr/>
